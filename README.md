@@ -39,7 +39,7 @@ Cria uma função que recebe um nome e conta quantas letras ele possui.
 Cada missão é representada por um script Python. Para executar,
 siga os passos abaixo:
 
-**  Pré-requisitos:**
+**Pré-requisitos:**
 
 - Instale o Python (versão 3.x).
 
