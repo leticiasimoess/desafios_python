@@ -43,7 +43,7 @@ siga os passos abaixo:
 
 - Instale o Python (versão 3.x).
 
-**-Clonando o Repositório:**
+**Clonando o Repositório:**
 - git clone https://github.com/seu-usuario/desafio-vai-na-web.git
 - cd desafio-vai-na-web
 - Executando um Script:
