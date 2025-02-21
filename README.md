@@ -3,7 +3,7 @@ Este repositório contém uma série de desafios em Python para ajudar a restaur
 "Vai na Web" após um ataque de um vírus misterioso. Cada missão aborda conceitos básicos de Python,
 como variáveis, tipos de dados, entrada e saída, condicionais, loops, listas, tuplas e funções.
 
-#Missões
+##Missões
 #1Restaurando as Regras Escolares
 Verifica se um aluno foi aprovado ou reprovado com base na nota informada.
 
