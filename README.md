@@ -3,35 +3,36 @@ Este repositório contém uma série de desafios em Python para ajudar a restaur
 "Vai na Web" após um ataque de um vírus misterioso. Cada missão aborda conceitos básicos de Python,
 como variáveis, tipos de dados, entrada e saída, condicionais, loops, listas, tuplas e funções.
 
-##Missões
-#1Restaurando as Regras Escolares
+# Missões
+
+**#1 Restaurando as Regras Escolares**
 Verifica se um aluno foi aprovado ou reprovado com base na nota informada.
 
-#2O Sistema Eleitoral Secreto
+**#2 O Sistema Eleitoral Secreto**
 Verifica se o usuário tem idade mínima (16 anos) para votar.
 
-#3Recuperando o Sistema de Notas
+**#3 Recuperando o Sistema de Notas**
 Classifica a nota de um aluno em letras (A, B, C, D ou F) conforme a escala definida.
 
-#4Restaurando a Identificação de Números
+**#4 Restaurando a Identificação de Números**
 Soma dois números informados pelo usuário.
 
-#5Recuperando o Cofre de Segurança
+**#5 Recuperando o Cofre de Segurança**
 Solicita uma senha ao usuário e verifica se ela corresponde à senha correta ("Python123").
 
-#6Reforçando a Segurança e a Contagem do Sistema
+**#6 Reforçando a Segurança e a Contagem do Sistema**
 Exibe os números de 1 a 10 utilizando um loop while.
 
-#7Organizando a Lista
+**#7 Organizando a Lista**
 Organiza uma lista de números em ordem crescente.
 
-#8Acessando os Registros de Alunos
+**#8Acessando os Registros de Alunos**
 Acessa e exibe o primeiro e o último nome de uma tupla com nomes.
 
-#9Calculando Dobro de um Número
+**#9 Calculando Dobro de um Número**
 Cria uma função que recebe um número e retorna o dobro do seu valor.
 
-#10Contando Letras
+**#10 Contando Letras**
 Cria uma função que recebe um nome e conta quantas letras ele possui.
 
 # Como Executar os Programas
