@@ -5,37 +5,37 @@ como variáveis, tipos de dados, entrada e saída, condicionais, loops, listas, 
 
 ## Missões
 
-**#1 Restaurando as Regras Escolares**
+**1 Restaurando as Regras Escolares**
 Verifica se um aluno foi aprovado ou reprovado com base na nota informada.
 
-**#2 O Sistema Eleitoral Secreto**
+**2 O Sistema Eleitoral Secreto**
 Verifica se o usuário tem idade mínima (16 anos) para votar.
 
-**#3 Recuperando o Sistema de Notas**
+**3 Recuperando o Sistema de Notas**
 Classifica a nota de um aluno em letras (A, B, C, D ou F) conforme a escala definida.
 
-**#4 Restaurando a Identificação de Números**
+**4 Restaurando a Identificação de Números**
 Soma dois números informados pelo usuário.
 
-**#5 Recuperando o Cofre de Segurança**
+**5 Recuperando o Cofre de Segurança**
 Solicita uma senha ao usuário e verifica se ela corresponde à senha correta ("Python123").
 
-**#6 Reforçando a Segurança e a Contagem do Sistema**
+**6 Reforçando a Segurança e a Contagem do Sistema**
 Exibe os números de 1 a 10 utilizando um loop while.
 
-**#7 Organizando a Lista**
+**7 Organizando a Lista**
 Organiza uma lista de números em ordem crescente.
 
-**#8 Acessando os Registros de Alunos**
+**8 Acessando os Registros de Alunos**
 Acessa e exibe o primeiro e o último nome de uma tupla com nomes.
 
-**#9 Calculando Dobro de um Número**
+**9 Calculando Dobro de um Número**
 Cria uma função que recebe um número e retorna o dobro do seu valor.
 
-**#10 Contando Letras**
+**10 Contando Letras**
 Cria uma função que recebe um nome e conta quantas letras ele possui.
 
-**## Como Executar os Programas**
+**# Como Executar os Programas**
 Cada missão é representada por um script Python. Para executar, siga os passos abaixo:
 
 ## Pré-requisitos:
