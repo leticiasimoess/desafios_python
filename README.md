@@ -35,10 +35,11 @@ Cria uma função que recebe um número e retorna o dobro do seu valor.
 **10 Contando Letras**
 Cria uma função que recebe um nome e conta quantas letras ele possui.
 
-**# Como Executar os Programas**
-Cada missão é representada por um script Python. Para executar, siga os passos abaixo:
+# Como Executar os Programas
+Cada missão é representada por um script Python. Para executar,
+siga os passos abaixo:
 
-## Pré-requisitos:
+**  Pré-requisitos:**
 
 - Instale o Python (versão 3.x).
 
