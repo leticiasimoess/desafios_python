@@ -3,7 +3,7 @@ Este repositório contém uma série de desafios em Python para ajudar a restaur
 "Vai na Web" após um ataque de um vírus misterioso. Cada missão aborda conceitos básicos de Python,
 como variáveis, tipos de dados, entrada e saída, condicionais, loops, listas, tuplas e funções.
 
-# Missões
+## Missões
 
 **#1 Restaurando as Regras Escolares**
 Verifica se um aluno foi aprovado ou reprovado com base na nota informada.
@@ -35,20 +35,20 @@ Cria uma função que recebe um número e retorna o dobro do seu valor.
 **#10 Contando Letras**
 Cria uma função que recebe um nome e conta quantas letras ele possui.
 
-# Como Executar os Programas
+## Como Executar os Programas
 Cada missão é representada por um script Python. Para executar, siga os passos abaixo:
 
-#Pré-requisitos:
+## Pré-requisitos:
 
-Instale o Python (versão 3.x).
+- Instale o Python (versão 3.x).
 
-Clonando o Repositório:
-git clone https://github.com/seu-usuario/desafio-vai-na-web.git
-cd desafio-vai-na-web
-Executando um Script:
+**-Clonando o Repositório:**
+-git clone https://github.com/seu-usuario/desafio-vai-na-web.git
+-cd desafio-vai-na-web
+-Executando um Script:
 
-#Para executar, por exemplo, a missão 1:
+## Para executar, por exemplo, a missão 1:
 
-python missao1.py
-Faça o mesmo para as demais missões, substituindo o nome do arquivo conforme necessário (por exemplo, missao2.py, missao3.py, etc.).
+-python missao1.py
+-Faça o mesmo para as demais missões, substituindo o nome do arquivo conforme necessário (por exemplo, missao2.py, missao3.py, etc.).
 
