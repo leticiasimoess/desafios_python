@@ -26,7 +26,7 @@ Exibe os números de 1 a 10 utilizando um loop while.
 **#7 Organizando a Lista**
 Organiza uma lista de números em ordem crescente.
 
-**#8Acessando os Registros de Alunos**
+**#8 Acessando os Registros de Alunos**
 Acessa e exibe o primeiro e o último nome de uma tupla com nomes.
 
 **#9 Calculando Dobro de um Número**
@@ -35,7 +35,7 @@ Cria uma função que recebe um número e retorna o dobro do seu valor.
 **#10 Contando Letras**
 Cria uma função que recebe um nome e conta quantas letras ele possui.
 
-## Como Executar os Programas
+**## Como Executar os Programas**
 Cada missão é representada por um script Python. Para executar, siga os passos abaixo:
 
 ## Pré-requisitos:
@@ -43,12 +43,12 @@ Cada missão é representada por um script Python. Para executar, siga os passos
 - Instale o Python (versão 3.x).
 
 **-Clonando o Repositório:**
--git clone https://github.com/seu-usuario/desafio-vai-na-web.git
--cd desafio-vai-na-web
--Executando um Script:
+- git clone https://github.com/seu-usuario/desafio-vai-na-web.git
+- cd desafio-vai-na-web
+- Executando um Script:
 
 ## Para executar, por exemplo, a missão 1:
 
--python missao1.py
--Faça o mesmo para as demais missões, substituindo o nome do arquivo conforme necessário (por exemplo, missao2.py, missao3.py, etc.).
+- python missao1.py
+- Faça o mesmo para as demais missões, substituindo o nome do arquivo conforme necessário (por exemplo, missao2.py, missao3.py, etc.).
 
